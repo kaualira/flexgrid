@@ -26,7 +26,7 @@ main {
     grid-area: main;
 
 }
-Sidebar {
+#Sidebar {
     background: #65a8a8;
     grid-area: sidebar;
 
